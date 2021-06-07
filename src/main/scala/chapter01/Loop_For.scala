@@ -1,6 +1,6 @@
 package chapter01
 import scala.util.control.Breaks
-object Loop {
+object Loop_For {
   def main(args: Array[String]): Unit = {
     // for 循环
     // 基本语法
